@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/httpclient-4.5.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/httpcore-4.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/jsoup-1.8.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="out/production/StudyRoom"/>
+</classpath>
